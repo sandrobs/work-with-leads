@@ -12,6 +12,9 @@ const LogoContainer = styled.div`
 
 const ImageLogo = styled.img`
     height: 3rem;
+    @media(max-width: 450px) {
+        height: 1.8rem;;
+    }
 `;
 
 const HeaderContent = styled.div`
