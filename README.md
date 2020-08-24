@@ -1,12 +1,17 @@
 # Work With Leads
 
-
+Web App desenvolvida como proposta de desafio utilizando ReactJs.
 
 ### `npm start`
 
-Executa o app web
+Executa a web app
 
 
 ### `npm test`
 
-Executa a API Fake co json-server
+Executa a API Fake com json-server
+
+## Funcionalidades
+- Lista de Leads
+- Manutenção de Leads
+- Responsividade para mobiles
