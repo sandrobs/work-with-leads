@@ -1,0 +1,50 @@
+{
+  "leads": [
+    {
+      "nome": "João da Silva Siqueira",
+      "email": "joaosiqueira@gmail.com",
+      "cpf": "055.373.570-55",
+      "estadoCivil": "Solteiro(a)",
+      "nomeConjugue": "",
+      "id": 1
+    },
+    {
+      "nome": "Márcio dos Santos",
+      "email": "marciosantos@gmail.com",
+      "cpf": "303.564.730-59",
+      "estadoCivil": "Casado(a)",
+      "nomeConjugue": "Silvana Sporh",
+      "id": 2
+    },
+    {
+      "nome": "Pedro",
+      "email": "pedro@teste.com",
+      "cpf": "465.464.565-46",
+      "estadoCivil": "Separado(a)",
+      "nomeConjugue": "",
+      "id": 4
+    },
+    {
+      "nome": "Andre",
+      "email": "andrete@gmail.com",
+      "cpf": "465.479.879-45",
+      "estadoCivil": "Solteiro(a)",
+      "nomeConjugue": "",
+      "id": 5
+    }
+  ],
+  "tiposEstadoCivil": [
+    {
+      "nomeEstadoCivil": "Solteiro(a)"
+    },
+    {
+      "nomeEstadoCivil": "Casado(a)"
+    },
+    {
+      "nomeEstadoCivil": "Viúvo(a)"
+    },
+    {
+      "nomeEstadoCivil": "Separado(a)"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+:root{
+    --color-background: #224D74;
+    --color-title: #FFFFFF;
+    --color-label: #020202;
+    --color-input-text: #3C3C3C;
+    --color-input-border: #c8d6e5;
+    --color-readonly: #d4d4d4;
+    --color-primary-button: #F79028;
+    --color-secondary-button: #989898;
+    --color-background-container: #FFFFFF;
+    --color-error: #ff3f34;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+/*
+html, body, #root{
+    height: 95vh;
+}*/
+
+body{
+    background: var(--color-background);
+}
